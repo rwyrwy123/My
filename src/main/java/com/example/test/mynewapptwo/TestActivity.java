@@ -36,6 +36,7 @@ public class TestActivity extends AppCompatActivity implements LoaderManager.Loa
         SimpleCursorAdapter simpleCursorAdapter = new SimpleCursorAdapter(this,android.R.layout.simple_list_item_1, (Cursor) cursorLoader,
                 new String[]{ContactsContract.Contacts.DISPLAY_NAME,ContactsContract.Contacts._ID},new int[]{android.R.id.text1,android.R.id.text1}, CursorAdapter.FLAG_REGISTER_CONTENT_OBSERVER);
         int mediaTypeImage = MediaStore.Files.FileColumns.MEDIA_TYPE_IMAGE;
+//        测试测试测试
         return null;
     }
 
