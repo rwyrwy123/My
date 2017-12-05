@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary_night">#3b3b3b</color>
+    <color name="colorPrimaryDark_night">#383838</color>
+    <color name="colorAccent_night">#a72b55</color>
+    <color name="tabSelected">#ffffff</color>
+    <color name="colorTitle">#000000</color>
+
+</resources>

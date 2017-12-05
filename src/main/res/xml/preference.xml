@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:key="daynight"
+        android:title="白夜"
+        android:summary="请选择模式"
+        />
+    <RingtonePreference
+        android:key="cache"
+        android:title="缓存"/>
+</PreferenceScreen>
